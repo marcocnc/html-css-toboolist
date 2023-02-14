@@ -54,7 +54,7 @@ header div img{
     padding-top: 20px;
 }
 
-.first-button, .second-button, .category{
+.first-button, .second-button{
     padding: 5px;
     border-radius: 10%;
 }
@@ -83,21 +83,60 @@ h3{
 }
 
 .layer{
-    padding-top: 5px;
+    padding-top: 10px;
     padding-bottom: 30px;
 }
 
 .category{
     font-size: 12px;
-    border: 1px solid black;
     border-radius: 20px;
     margin-left: 5px;
+    padding: 8px 20px;
 }
 
 .symbol{
     font-size: 10px;
-    border: 1px solid black;
     border-radius: 50%;
     padding: 3px;
     margin-right: 10px;
+}
+
+.checkmark{
+    color:green;
+    border: 1px solid green;
+}
+
+.cross{
+    color:red;
+    border: 1px solid red;
+}
+
+.editorial{
+    background-color: #47ADF1;
+    color:white;
+}
+
+.q1-goals{
+    background-color: #9C72E4;
+    color:white;
+}
+
+.recruiting{
+    background-color: #64C0A9;
+    color:white;
+}
+
+.mobile{
+    background-color: #F29E33;
+    color:white;
+}
+
+.website{
+    background-color: #D863A1;
+    color:white;
+}
+
+.sales{
+    background-color: #B0C926;
+    color:white;
 }
